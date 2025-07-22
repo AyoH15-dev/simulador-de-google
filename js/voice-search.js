@@ -1,4 +1,4 @@
-
+//No realicé cambios en este código, solo estoy probando git push
 const voiceSearch = document.querySelector(".voice-search");
 let microAceptado = false;
 
